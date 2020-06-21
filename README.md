@@ -1,3 +1,5 @@
+LINK TO PROJECT REPORT: https://drive.google.com/file/d/1ke-qbqlMMGZTeCqVDwAc9Rnnve_X4lQm/view
+
 Project Title: Implementing Artificial Neural Networks On Mobile Devices For The Recognition Of American Sign Language (ASL) 
 
 Project Description:
